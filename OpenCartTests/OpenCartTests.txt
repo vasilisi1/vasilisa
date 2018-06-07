@@ -1,0 +1,192 @@
+﻿[05.06.2018 19:59:08 Informational] ------ Load Playlist started ------
+[05.06.2018 19:59:08 Informational] ========== Load Playlist finished (0:00:00,0444167) ==========
+[06.06.2018 00:29:42 Informational] ------ Load Playlist started ------
+[06.06.2018 00:29:42 Informational] ========== Load Playlist finished (0:00:00,0024964) ==========
+[06.06.2018 01:02:12 Informational] ------ Load Playlist started ------
+[06.06.2018 01:02:12 Informational] ========== Load Playlist finished (0:00:00) ==========
+[06.06.2018 01:02:29 Informational] ------ Load Playlist started ------
+[06.06.2018 01:02:29 Informational] ========== Load Playlist finished (0:00:00,0005016) ==========
+[06.06.2018 19:33:31 Informational] ------ Load Playlist started ------
+[06.06.2018 19:33:31 Informational] ========== Load Playlist finished (0:00:00) ==========
+[06.06.2018 20:22:50 Informational] ------ Load Playlist started ------
+[06.06.2018 20:22:50 Informational] ========== Load Playlist finished (0:00:00) ==========
+[07.06.2018 09:57:55 Informational] ------ Load Playlist started ------
+[07.06.2018 09:57:55 Informational] ========== Load Playlist finished (0:00:00,0014971) ==========
+[07.06.2018 10:51:41 Informational] ------ Load Playlist started ------
+[07.06.2018 10:51:41 Informational] ========== Load Playlist finished (0:00:00,0009988) ==========
+[07.06.2018 11:24:58 Informational] Executing test method 'OpenCartTests.SearchTest.Search'
+[07.06.2018 11:24:58 Informational] ------ Run test started ------
+[07.06.2018 11:25:01 Informational] NUnit Adapter 3.10.0.21: Test execution started
+[07.06.2018 11:25:01 Informational] Running all tests in C:\Users\Vasylyna\source\repos\OpenCartTests\OpenCartTests\bin\Debug\OpenCartTests.dll
+[07.06.2018 11:25:02 Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[07.06.2018 11:25:11 Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[07.06.2018 11:25:11 Informational] ========== Run test finished: 1 run (0:00:13,4817311) ==========
+[07.06.2018 11:31:36 Informational] Executing test method 'OpenCartTests.SearchTest.Search'
+[07.06.2018 11:31:36 Informational] ------ Run test started ------
+[07.06.2018 11:31:36 Informational] NUnit Adapter 3.10.0.21: Test execution started
+[07.06.2018 11:31:37 Informational] Running selected tests in C:\Users\Vasylyna\source\repos\OpenCartTests\OpenCartTests\bin\Debug\OpenCartTests.dll
+[07.06.2018 11:31:37 Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[07.06.2018 11:31:45 Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[07.06.2018 11:31:45 Informational] ========== Run test finished: 1 run (0:00:09,7830188) ==========
+[07.06.2018 11:37:07 Informational] Executing test method 'OpenCartTests.SearchTest.Search'
+[07.06.2018 11:37:07 Informational] ------ Run test started ------
+[07.06.2018 11:37:07 Informational] NUnit Adapter 3.10.0.21: Test execution started
+[07.06.2018 11:37:07 Informational] Running selected tests in C:\Users\Vasylyna\source\repos\OpenCartTests\OpenCartTests\bin\Debug\OpenCartTests.dll
+[07.06.2018 11:37:08 Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[07.06.2018 11:37:19 Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[07.06.2018 11:37:19 Informational] ========== Run test finished: 1 run (0:00:12,1993697) ==========
+[07.06.2018 11:50:49 Informational] Executing test method 'OpenCartTests.SearchTest.Search'
+[07.06.2018 11:50:49 Informational] ------ Run test started ------
+[07.06.2018 11:50:50 Informational] NUnit Adapter 3.10.0.21: Test execution started
+[07.06.2018 11:50:50 Informational] Running selected tests in C:\Users\Vasylyna\source\repos\OpenCartTests\OpenCartTests\bin\Debug\OpenCartTests.dll
+[07.06.2018 11:50:51 Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[07.06.2018 11:51:05 Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[07.06.2018 11:51:05 Informational] ========== Run test finished: 1 run (0:00:16,4153441) ==========
+[07.06.2018 11:55:51 Warning] The build was canceled or Failed.
+[07.06.2018 11:56:57 Informational] Executing test method 'OpenCartTests.SearchTest.Search'
+[07.06.2018 11:56:57 Informational] ------ Run test started ------
+[07.06.2018 11:56:58 Informational] NUnit Adapter 3.10.0.21: Test execution started
+[07.06.2018 11:56:58 Informational] Running selected tests in C:\Users\Vasylyna\source\repos\OpenCartTests\OpenCartTests\bin\Debug\OpenCartTests.dll
+[07.06.2018 11:56:59 Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[07.06.2018 11:57:13 Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[07.06.2018 11:57:13 Informational] ========== Run test finished: 1 run (0:00:15,8692367) ==========
+[07.06.2018 11:57:57 Informational] Executing test method 'OpenCartTests.SearchTest.Search'
+[07.06.2018 11:57:57 Informational] ------ Run test started ------
+[07.06.2018 11:57:58 Informational] NUnit Adapter 3.10.0.21: Test execution started
+[07.06.2018 11:57:58 Informational] Running selected tests in C:\Users\Vasylyna\source\repos\OpenCartTests\OpenCartTests\bin\Debug\OpenCartTests.dll
+[07.06.2018 11:57:59 Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[07.06.2018 11:58:20 Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[07.06.2018 11:58:20 Informational] ========== Run test finished: 1 run (0:00:23,2390925) ==========
+[07.06.2018 11:59:57 Warning] The build was canceled or Failed.
+[07.06.2018 12:00:38 Informational] Executing test method 'OpenCartTests.SearchTest.Search'
+[07.06.2018 12:00:38 Informational] ------ Run test started ------
+[07.06.2018 12:00:39 Informational] NUnit Adapter 3.10.0.21: Test execution started
+[07.06.2018 12:00:39 Informational] Running selected tests in C:\Users\Vasylyna\source\repos\OpenCartTests\OpenCartTests\bin\Debug\OpenCartTests.dll
+[07.06.2018 12:00:40 Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[07.06.2018 12:00:54 Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[07.06.2018 12:00:54 Informational] ========== Run test finished: 1 run (0:00:15,8545418) ==========
+[07.06.2018 12:01:38 Informational] Executing test method 'OpenCartTests.SearchTest.Search'
+[07.06.2018 12:01:38 Informational] ------ Run test started ------
+[07.06.2018 12:01:39 Informational] NUnit Adapter 3.10.0.21: Test execution started
+[07.06.2018 12:01:39 Informational] Running selected tests in C:\Users\Vasylyna\source\repos\OpenCartTests\OpenCartTests\bin\Debug\OpenCartTests.dll
+[07.06.2018 12:01:40 Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[07.06.2018 12:01:54 Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[07.06.2018 12:01:54 Informational] ========== Run test finished: 1 run (0:00:16,0372685) ==========
+[07.06.2018 12:03:54 Informational] Executing test method 'OpenCartTests.SearchTest.Search'
+[07.06.2018 12:03:54 Informational] ------ Run test started ------
+[07.06.2018 12:03:55 Informational] NUnit Adapter 3.10.0.21: Test execution started
+[07.06.2018 12:03:55 Informational] Running selected tests in C:\Users\Vasylyna\source\repos\OpenCartTests\OpenCartTests\bin\Debug\OpenCartTests.dll
+[07.06.2018 12:03:56 Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[07.06.2018 12:04:10 Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[07.06.2018 12:04:10 Informational] ========== Run test finished: 1 run (0:00:15,8404512) ==========
+[07.06.2018 12:43:14 Warning] The build was canceled or Failed.
+[07.06.2018 12:43:41 Warning] The build was canceled or Failed.
+[07.06.2018 12:43:55 Informational] ------ Run test started ------
+[07.06.2018 12:43:56 Informational] NUnit Adapter 3.10.0.21: Test execution started
+[07.06.2018 12:43:56 Informational] Running selected tests in C:\Users\Vasylyna\source\repos\OpenCartTests\OpenCartTests\bin\Debug\OpenCartTests.dll
+[07.06.2018 12:43:57 Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[07.06.2018 12:44:11 Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[07.06.2018 12:44:11 Informational] ========== Run test finished: 1 run (0:00:15,5364282) ==========
+[07.06.2018 13:06:39 Informational] Executing test method 'OpenCartTests.SearchTest.Search_Samsung'
+[07.06.2018 13:06:39 Informational] ------ Run test started ------
+[07.06.2018 13:06:41 Informational] NUnit Adapter 3.10.0.21: Test execution started
+[07.06.2018 13:06:41 Informational] Running all tests in C:\Users\Vasylyna\source\repos\OpenCartTests\OpenCartTests\bin\Debug\OpenCartTests.dll
+[07.06.2018 13:06:42 Informational] NUnit3TestExecutor converted 2 of 2 NUnit test cases
+[07.06.2018 13:07:04 Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[07.06.2018 13:07:04 Informational] ========== Run test finished: 1 run (0:00:24,373282) ==========
+[07.06.2018 13:10:53 Informational] ------ Run test started ------
+[07.06.2018 13:10:55 Informational] NUnit Adapter 3.10.0.21: Test execution started
+[07.06.2018 13:10:55 Informational] Running all tests in C:\Users\Vasylyna\source\repos\OpenCartTests\OpenCartTests\bin\Debug\OpenCartTests.dll
+[07.06.2018 13:10:56 Informational] NUnit3TestExecutor converted 2 of 2 NUnit test cases
+[07.06.2018 13:11:15 Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[07.06.2018 13:11:15 Informational] ========== Run test finished: 2 run (0:00:21,9305044) ==========
+[07.06.2018 13:11:50 Informational] Executing test method 'OpenCartTests.SearchTest.Search_Samsung'
+[07.06.2018 13:11:50 Informational] ------ Run test started ------
+[07.06.2018 13:11:54 Informational] NUnit Adapter 3.10.0.21: Test execution started
+[07.06.2018 13:11:54 Informational] Debugging selected tests in C:\Users\Vasylyna\source\repos\OpenCartTests\OpenCartTests\bin\Debug\OpenCartTests.dll
+[07.06.2018 13:11:55 Informational] NUnit3TestExecutor converted 2 of 2 NUnit test cases
+[07.06.2018 13:12:35 Error] The active test run was aborted. Reason: 
+[07.06.2018 13:12:35 Informational] ========== Run test finished: 0 run (0:00:45,2491392) ==========
+[07.06.2018 13:12:51 Informational] ------ Run test started ------
+[07.06.2018 13:12:52 Informational] NUnit Adapter 3.10.0.21: Test execution started
+[07.06.2018 13:12:52 Informational] Running selected tests in C:\Users\Vasylyna\source\repos\OpenCartTests\OpenCartTests\bin\Debug\OpenCartTests.dll
+[07.06.2018 13:12:53 Informational] NUnit3TestExecutor converted 2 of 2 NUnit test cases
+[07.06.2018 13:13:08 Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[07.06.2018 13:13:09 Informational] ========== Run test finished: 1 run (0:00:17,5001068) ==========
+[07.06.2018 13:13:43 Informational] Executing test method 'OpenCartTests.SearchTest.Search_iPhone'
+[07.06.2018 13:13:43 Informational] ------ Run test started ------
+[07.06.2018 13:13:45 Informational] NUnit Adapter 3.10.0.21: Test execution started
+[07.06.2018 13:13:45 Informational] Running selected tests in C:\Users\Vasylyna\source\repos\OpenCartTests\OpenCartTests\bin\Debug\OpenCartTests.dll
+[07.06.2018 13:13:46 Informational] NUnit3TestExecutor converted 2 of 2 NUnit test cases
+[07.06.2018 13:14:00 Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[07.06.2018 13:14:00 Informational] ========== Run test finished: 1 run (0:00:17,3525885) ==========
+[07.06.2018 13:14:09 Informational] ------ Run test started ------
+[07.06.2018 13:14:10 Informational] NUnit Adapter 3.10.0.21: Test execution started
+[07.06.2018 13:14:10 Informational] Running selected tests in C:\Users\Vasylyna\source\repos\OpenCartTests\OpenCartTests\bin\Debug\OpenCartTests.dll
+[07.06.2018 13:14:11 Informational] NUnit3TestExecutor converted 2 of 2 NUnit test cases
+[07.06.2018 13:14:23 Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[07.06.2018 13:14:23 Informational] ========== Run test finished: 1 run (0:00:14,0091995) ==========
+[07.06.2018 13:15:16 Informational] Executing test method 'OpenCartTests.SearchTest.Search_iPhone'
+[07.06.2018 13:15:16 Informational] ------ Run test started ------
+[07.06.2018 13:15:17 Informational] NUnit Adapter 3.10.0.21: Test execution started
+[07.06.2018 13:15:18 Informational] Running selected tests in C:\Users\Vasylyna\source\repos\OpenCartTests\OpenCartTests\bin\Debug\OpenCartTests.dll
+[07.06.2018 13:15:18 Informational] NUnit3TestExecutor converted 2 of 2 NUnit test cases
+[07.06.2018 13:15:32 Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[07.06.2018 13:15:32 Informational] ========== Run test finished: 1 run (0:00:15,7739509) ==========
+[07.06.2018 13:15:36 Informational] ------ Run test started ------
+[07.06.2018 13:15:37 Informational] NUnit Adapter 3.10.0.21: Test execution started
+[07.06.2018 13:15:37 Informational] Running selected tests in C:\Users\Vasylyna\source\repos\OpenCartTests\OpenCartTests\bin\Debug\OpenCartTests.dll
+[07.06.2018 13:15:38 Informational] NUnit3TestExecutor converted 2 of 2 NUnit test cases
+[07.06.2018 13:15:50 Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[07.06.2018 13:15:50 Informational] ========== Run test finished: 1 run (0:00:14,2696223) ==========
+[07.06.2018 13:17:04 Informational] Executing test method 'OpenCartTests.SearchTest.Search_Samsung'
+[07.06.2018 13:17:04 Informational] ------ Run test started ------
+[07.06.2018 13:17:05 Informational] NUnit Adapter 3.10.0.21: Test execution started
+[07.06.2018 13:17:06 Informational] Running selected tests in C:\Users\Vasylyna\source\repos\OpenCartTests\OpenCartTests\bin\Debug\OpenCartTests.dll
+[07.06.2018 13:17:06 Informational] NUnit3TestExecutor converted 2 of 2 NUnit test cases
+[07.06.2018 13:17:18 Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[07.06.2018 13:17:18 Informational] ========== Run test finished: 1 run (0:00:13,9411004) ==========
+[07.06.2018 13:18:09 Informational] ------ Run test started ------
+[07.06.2018 13:18:11 Informational] NUnit Adapter 3.10.0.21: Test execution started
+[07.06.2018 13:18:11 Informational] Running all tests in C:\Users\Vasylyna\source\repos\OpenCartTests\OpenCartTests\bin\Debug\OpenCartTests.dll
+[07.06.2018 13:18:12 Informational] NUnit3TestExecutor converted 2 of 2 NUnit test cases
+[07.06.2018 13:18:33 Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[07.06.2018 13:18:33 Informational] ========== Run test finished: 2 run (0:00:23,3789662) ==========
+[07.06.2018 13:20:04 Informational] ------ Run test started ------
+[07.06.2018 13:20:05 Informational] NUnit Adapter 3.10.0.21: Test execution started
+[07.06.2018 13:20:05 Informational] Running selected tests in C:\Users\Vasylyna\source\repos\OpenCartTests\OpenCartTests\bin\Debug\OpenCartTests.dll
+[07.06.2018 13:20:06 Informational] NUnit3TestExecutor converted 2 of 2 NUnit test cases
+[07.06.2018 13:20:18 Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[07.06.2018 13:20:19 Informational] ========== Run test finished: 1 run (0:00:14,6947584) ==========
+[07.06.2018 13:21:11 Informational] ------ Run test started ------
+[07.06.2018 13:21:12 Informational] NUnit Adapter 3.10.0.21: Test execution started
+[07.06.2018 13:21:12 Informational] Running selected tests in C:\Users\Vasylyna\source\repos\OpenCartTests\OpenCartTests\bin\Debug\OpenCartTests.dll
+[07.06.2018 13:21:13 Informational] NUnit3TestExecutor converted 2 of 2 NUnit test cases
+[07.06.2018 13:21:30 Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[07.06.2018 13:21:30 Informational] ========== Run test finished: 1 run (0:00:18,4853103) ==========
+[07.06.2018 13:22:37 Informational] ------ Run test started ------
+[07.06.2018 13:22:38 Informational] NUnit Adapter 3.10.0.21: Test execution started
+[07.06.2018 13:22:38 Informational] Running selected tests in C:\Users\Vasylyna\source\repos\OpenCartTests\OpenCartTests\bin\Debug\OpenCartTests.dll
+[07.06.2018 13:22:39 Informational] NUnit3TestExecutor converted 2 of 2 NUnit test cases
+[07.06.2018 13:22:51 Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[07.06.2018 13:22:51 Informational] ========== Run test finished: 1 run (0:00:14,1423366) ==========
+[07.06.2018 13:23:17 Informational] ------ Run test started ------
+[07.06.2018 13:23:18 Informational] NUnit Adapter 3.10.0.21: Test execution started
+[07.06.2018 13:23:18 Informational] Running selected tests in C:\Users\Vasylyna\source\repos\OpenCartTests\OpenCartTests\bin\Debug\OpenCartTests.dll
+[07.06.2018 13:23:18 Informational] NUnit3TestExecutor converted 2 of 2 NUnit test cases
+[07.06.2018 13:23:32 Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[07.06.2018 13:23:32 Informational] ========== Run test finished: 1 run (0:00:15,7887502) ==========
+[07.06.2018 13:45:28 Informational] Executing test method 'OpenCartTests.SearchTest.Search_iPhone'
+[07.06.2018 13:45:28 Informational] ------ Run test started ------
+[07.06.2018 13:45:29 Informational] NUnit Adapter 3.10.0.21: Test execution started
+[07.06.2018 13:45:29 Informational] Running selected tests in C:\Users\Vasylyna\source\repos\OpenCartTests\OpenCartTests\bin\Debug\OpenCartTests.dll
+[07.06.2018 13:45:30 Informational] NUnit3TestExecutor converted 2 of 2 NUnit test cases
+[07.06.2018 13:45:44 Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[07.06.2018 13:45:44 Informational] ========== Run test finished: 1 run (0:00:16,4264223) ==========
+[07.06.2018 13:46:11 Informational] Executing test method 'OpenCartTests.SearchTest.Search_Samsung'
+[07.06.2018 13:46:11 Informational] ------ Run test started ------
+[07.06.2018 13:46:12 Informational] NUnit Adapter 3.10.0.21: Test execution started
+[07.06.2018 13:46:12 Informational] Running selected tests in C:\Users\Vasylyna\source\repos\OpenCartTests\OpenCartTests\bin\Debug\OpenCartTests.dll
+[07.06.2018 13:46:13 Informational] NUnit3TestExecutor converted 2 of 2 NUnit test cases
+[07.06.2018 13:46:27 Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[07.06.2018 13:46:27 Informational] ========== Run test finished: 1 run (0:00:16,1848721) ==========
